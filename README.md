@@ -9,15 +9,17 @@
 🌐 Keep it simple!
 
 💬 Now:
-- [Studing Go Lang and concurrency](https://github.com/thiagobergami/go-studies)
+
+- [Studying Go-lang and concurrency](https://github.com/thiagobergami/go-studies)
 
 💭 Later:
-- Paper How I automated youtube video creation.
-- Discord game bot
-- Personal Financial APP
-- Chess using C++ and SDL2
 
-💤 Previously:
+- [Chess using C++ and SDL2](#)
+- [Personal Financial APP](#)
+- [Discord game bot](#)
+- [Paper How I automated youtube video creation](#)
+
+💤 Previously
 - Youtube Shorts video automation
 - Node.js Data streaming
 - [Pokemon stadium using STL](https://github.com/thiagobergami/pokemon-stadium)
