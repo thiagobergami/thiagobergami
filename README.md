@@ -21,9 +21,11 @@
 - [Paper How I automated youtube video creation](#)
 
 💤 Previously
-- Youtube Shorts video automation
-- Node.js Data streaming
+
+- [Automated README Updation](https://github.com/thiagobergami/update-readme)
 - [Pokemon stadium using STL](https://github.com/thiagobergami/pokemon-stadium)
+- [Node.js Data streaming](#)
+- [Youtube shorts video automation](#)
 
 ## My Skills
 
