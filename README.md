@@ -11,6 +11,7 @@
 
 💬 Now:
 
+- [Paper How I automated youtube video creation](https://github.com/thiagobergami/yt-shoorts-automation)
 - [Studying Go-lang and concurrency](https://github.com/thiagobergami/go-studies)
 
 💭 Later:
