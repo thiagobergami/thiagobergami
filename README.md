@@ -6,7 +6,8 @@
 
 🏢 Throughout my career, I've had the opportunity to work with various technologies. However, my true enthusiasm lies in finding simple ways to solve problems with the right tools.
 
-🌐 Keep it simple!
+## My Projects
+🤖 This section is automated using this [!repository](https://github.com/thiagobergami/update-readme)
 
 💬 Now:
 
