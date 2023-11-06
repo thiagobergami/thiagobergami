@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hello! I'm Thiago, a Brazilian developer passionate to learn new things and how I can solving problems with that.
+👋 Hello! I'm Thiago Guedes, a Brazilian developer passionate to learn new things and how I can solving problems with that.
 
 ## About Me
 
