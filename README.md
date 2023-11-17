@@ -2,6 +2,8 @@
 
 👋 Hello! I'm Thiago Guedes, a Brazilian developer passionate to learn new things and how I can solving problems with that.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobergami&show_icons=true&theme=radical)
+
 ## About Me
 
 🏢 Throughout my career, I've had the opportunity to work with various technologies. However, my true enthusiasm lies in finding simple ways to solve problems with the right tools.
@@ -11,29 +13,16 @@
 
 💬 Now:
 
-- [Paper How I automated youtube video creation](https://github.com/thiagobergami/yt-shoorts-automation)
-- [Studying Go-lang and concurrency](https://github.com/thiagobergami/go-studies)
+- Rust Studies
 
 💭 Later:
 
-- [Chess using C++ and SDL2](#)
-- [Personal Financial APP](#)
-- [Discord game bot](#)
-- [Paper How I automated youtube video creation](#)
+- Lot of work...
 
 💤 Previously
-
-- [Automated README Updation](https://github.com/thiagobergami/update-readme)
+- [Paper How I automated youtube video creation](#)
+- [Youtube Shorts video automation](https://github.com/thiagobergami/yt-shoorts-automation)
 - [Pokemon stadium using STL](https://github.com/thiagobergami/pokemon-stadium)
-- [Node.js Data streaming](#)
-- [Youtube shorts video automation](#)
-
-## My Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobergami)](https://github.com/anuraghazra/github-readme-stats)
-
-> [!WARNING]
-> Currently this card shows data only about first 100 repositories.
 
 ## Contact
 
