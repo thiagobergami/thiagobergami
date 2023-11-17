@@ -25,7 +25,6 @@
 
 - [Automated README Updation](https://github.com/thiagobergami/update-readme)
 - [Pokemon stadium using STL](https://github.com/thiagobergami/pokemon-stadium)
-- [Node.js Data streaming](#)
 - [Youtube shorts video automation](#)
 
 ## My Skills
